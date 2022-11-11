@@ -1,0 +1,35 @@
+*{
+  margin: 0px;
+  padding:0px;
+}
+.container{
+ margin-top: 20px;
+ justify-content: center;
+text-align: center;
+}
+h1{
+  font-weight: bold;
+  color: dimgrey;
+}
+.searchBar{
+  max-width: 200px;
+  margin:auto;
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.button{
+  margin:3px;
+  padding:10px;
+}
+.nav-item a{
+  color :white;
+ 
+}
+.nav-item a:hover{
+  color : rebeccapurple;
+ transition: 3sec ease-out;
+}
+
+
+
